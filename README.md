@@ -10,7 +10,7 @@ As the problem of minimizing functionals on the Wasserstein space encompasses ma
 
 ```
 @inproceedings{bonet2024mirror,
-    title={Mirror and Preconditioned Gradient Descent in the Wasserstein Space},
+    title={Mirror and Preconditioned Gradient Descent in Wasserstein Space},
     author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
     year={2024},
     booktitle={Thirty-eight Conference on Neural Information Processing Systems}
